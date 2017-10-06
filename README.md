@@ -20,4 +20,4 @@ A code will appear in the Udacity Feedback when all Project Part 2 tests pass. P
 
 What else can you accomplish in markup? Try experimenting with font icons, unicode characters, and CSS effects to create natively responsive images.
 
-Link to live site
+https://apk29.github.io/responsive_images/
